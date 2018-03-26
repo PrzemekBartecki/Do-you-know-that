@@ -54,9 +54,13 @@
 	 color: green;
 	 font-size: 24px;
 	 padding:10px;
+	 text-decoration: underline;
+	 font-weight: 900;
  }
 
  #curio{
 	 color: white;
 	 font-size: 16px;
+	 text-decoration: none;
+	 font-weight: normal;t
  }
