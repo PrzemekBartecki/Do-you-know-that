@@ -1,0 +1,62 @@
+ *{
+	margin: 0;
+	padding: 0;
+}
+
+ ul{
+	 list-style-type: none;
+	 margin:0 auto;
+	}
+
+ li{
+		display: inline-block;
+	 	margin: 0 40px;
+	}
+
+ a{
+	 color: red;
+	 text-decoration: none;
+	 text-align: center;
+
+ }
+
+ header{
+	 height:60px;
+	 background-color: rosybrown;
+
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+
+ }
+
+ section{
+	 height: 600px;
+	 background-color: lightgrey;
+
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+ }
+
+ section p {
+	 text-transform: uppercase;
+	 color: white;
+	 font-size: 50px;
+ }
+
+ footer{
+	 height: auto;
+	 background-color: darkgrey;
+ }
+
+ div p {
+	 color: green;
+	 font-size: 24px;
+	 padding:10px;
+ }
+
+ #curio{
+	 color: white;
+	 font-size: 16px;
+ }
